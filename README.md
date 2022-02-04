@@ -10,7 +10,7 @@ required modules
 
 by running this commands in you terminal you will get this modules
 
-''' pip install cvzone'''
+'pip install cvzone'
 **> pip install numpy**
 **> pip install opencv-python**
 
